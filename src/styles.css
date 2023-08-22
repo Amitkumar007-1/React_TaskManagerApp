@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  background-color: cadetblue;
+}
+div>i:hover{
+  color: red;
+}
+i{
+  cursor: pointer;
+}
+div>h6{
+  background-color:darksalmon;
+}
